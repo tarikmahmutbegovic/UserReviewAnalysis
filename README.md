@@ -5,6 +5,8 @@
 ![image](https://user-images.githubusercontent.com/89174669/131264810-5b95c43f-3a71-4d5c-92a7-eea68ce2b5bd.png)
 
 # Code and Resources Used
+**Languages:** Python3, JavaScript
+
 **Python Version:** 3.9.6
 
 **Libraries:** pandas, jupyter notebook, justpy, datetime, pytz 
